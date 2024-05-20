@@ -188,8 +188,7 @@
                 <p class="mt-4">Menghadirkan pengalaman pengguna yang menarik dan intuitif melalui desain UI/UX yang terbaik.</p>
             </div>
         </div>
-    </section>
-
+    </section>                               
     <!-- About Me -->
     <section class="container" id="about">
         <h1 class="text-red mt-9 text-center text-5xl">About Me</h1>
@@ -235,3 +234,4 @@
 
 </body>
 </html>
+                        
